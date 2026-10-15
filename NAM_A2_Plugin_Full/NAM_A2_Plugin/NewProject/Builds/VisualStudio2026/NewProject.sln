@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio Version 18
+
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NewProject - App", "NewProject_App.vcxproj", "{8A56FB74-55C0-7C07-1286-FE964B8A3A23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A56FB74-55C0-7C07-1286-FE964B8A3A23}.Debug|x64.ActiveCfg = Debug|x64
+		{8A56FB74-55C0-7C07-1286-FE964B8A3A23}.Debug|x64.Build.0 = Debug|x64
+		{8A56FB74-55C0-7C07-1286-FE964B8A3A23}.Release|x64.ActiveCfg = Release|x64
+		{8A56FB74-55C0-7C07-1286-FE964B8A3A23}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
